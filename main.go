@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"redis/RediGo/redis"
+	"redis/redigo/redis"
 	"strconv"
 	"time"
 )
