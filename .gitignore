@@ -1,0 +1,7 @@
+*.exe
+.gitattributes
+go.mod
+go.sum
+README.md
+redigo.exe
+LICENSE
